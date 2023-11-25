@@ -5,4 +5,5 @@ My first attempt of doing some project in "www.theodinproject.com"
   i hope it turns out well 
   Thanks you
 
-  ## yuri-sama007
+  ## yuri-sama007# odin-recipes
+# odin-recipes

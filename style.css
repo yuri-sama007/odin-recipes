@@ -1,0 +1,32 @@
+html{
+    background:linear-gradient(to right, cyan, white );
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    
+}
+.heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+.first img{ 
+    display: block;
+    margin:auto;
+    border-radius: 25px;
+    width: 500px;
+
+   
+}
+
+.item{
+
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+font-size:  30px;
+font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+
